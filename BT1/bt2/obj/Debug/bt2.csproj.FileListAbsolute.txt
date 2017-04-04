@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\New folder\BT1\bt2\bin\Debug\bt2.exe.config
+C:\Users\admin\Desktop\New folder\BT1\bt2\bin\Debug\bt2.exe
+C:\Users\admin\Desktop\New folder\BT1\bt2\bin\Debug\bt2.pdb
+C:\Users\admin\Desktop\New folder\BT1\bt2\obj\Debug\bt2.bt2.resources
+C:\Users\admin\Desktop\New folder\BT1\bt2\obj\Debug\bt2.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\BT1\bt2\obj\Debug\bt2.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\New folder\BT1\bt2\obj\Debug\bt2.exe
+C:\Users\admin\Desktop\New folder\BT1\bt2\obj\Debug\bt2.pdb

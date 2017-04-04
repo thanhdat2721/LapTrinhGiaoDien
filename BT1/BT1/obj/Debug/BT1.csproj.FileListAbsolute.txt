@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\New folder\BT1\BT1\bin\Debug\BT1.exe.config
+C:\Users\admin\Desktop\New folder\BT1\BT1\bin\Debug\BT1.exe
+C:\Users\admin\Desktop\New folder\BT1\BT1\bin\Debug\BT1.pdb
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.Form1.resources
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.exe
+C:\Users\admin\Desktop\New folder\BT1\BT1\obj\Debug\BT1.pdb

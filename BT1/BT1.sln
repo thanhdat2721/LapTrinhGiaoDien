@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1", "BT1\BT1.csproj", "{E5B87734-C98B-428B-B1D9-403E49A45DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt2", "bt2\bt2.csproj", "{3A753BE2-49B1-486B-81ED-31E6AE8F420B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B87734-C98B-428B-B1D9-403E49A45DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B87734-C98B-428B-B1D9-403E49A45DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B87734-C98B-428B-B1D9-403E49A45DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B87734-C98B-428B-B1D9-403E49A45DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A753BE2-49B1-486B-81ED-31E6AE8F420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A753BE2-49B1-486B-81ED-31E6AE8F420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A753BE2-49B1-486B-81ED-31E6AE8F420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A753BE2-49B1-486B-81ED-31E6AE8F420B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
